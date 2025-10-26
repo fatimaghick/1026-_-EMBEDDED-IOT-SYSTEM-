@@ -39,28 +39,5 @@ Week 6 DHT and LDR	Reads environmental data using DHT and LDR sensors
 Week 6 Hometask (DHT + LDR Combined)	Integrates both sensors and displays data on OLED
 **Assignment 1	Task A LED control and mode display using buttons and OLED
 **Assignment 1	Task B Short press toggles LED, long press triggers buzzer tone with OLED feedback
-How to Use
-Clone this repository:
-git clone https://github.com/Fareena184/Embedded-IoT-Systems-1024.git
-About
-This repository includes ESP32 lab tasks and home assignments for Embedded IoT Systems (Fall 2025). It covers the basics of ESP32 programming and sue of different Sensors.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-C++
-100.0%
-Footer
 
