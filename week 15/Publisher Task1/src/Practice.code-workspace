@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Mushtaq Ahmad/Documents/PlatformIO/Projects/Practice"
+		},
+		{
+			"name": "TASK_1",
+			"path": "../../../Assignment_1_23-NTU-CS-1017/TASK_1"
+		},
+		{
+			"name": "TASK_2",
+			"path": "../../../Assignment_1_23-NTU-CS-1017/TASK_2"
+		},
+		{
+			"name": "Wifi scanning",
+			"path": "../../../Wifi scanning"
+		},
+		{
+			"name": "DHT cloud",
+			"path": "../../../DHT cloud"
+		},
+		{
+			"name": "WIFI Connectivity",
+			"path": "../../../WIFI Connectivity/WIFI Connectivity"
+		},
+		{
+			"name": "ESP 32 LED WEB SERVER",
+			"path": "../../../ESP 32 LED WEB SERVER"
+		},
+		{
+			"name": "Static ip setup",
+			"path": "../../../Static ip setup"
+		},
+		{
+			"name": "Publisher",
+			"path": "../../../week 14/Publisher"
+		},
+		{
+			"name": "Publisher Task1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
