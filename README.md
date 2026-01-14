@@ -44,13 +44,13 @@ Arduino IDE	Used for coding, compiling, and uploading firmware
 Directory Structure
 
 Folder	Description
-Week 3 Part-1                      Timer Interrupt	Demonstrates timer interrupt handling on ESP32
+**Week 3 Part-1                      Timer Interrupt	Demonstrates timer interrupt handling on ESP32
 Week 3 Homework Debounce	         Implements switch debounce using multiple interrupts
 Week 4 Hometask                    Display Name, Emojis and Logo	Displays graphics and text on OLED
 Week 4 Simple Timer & LED          Display	Shows use of timers to control LEDs
 Week 5 PWM-Based LEDs and Buzzer	 Demonstrates PWM-based brightness and tone control
 Week 6 DHT and LDR	               Reads environmental data using DHT and LDR sensors
-Week 6 Hometask                    (DHT + LDR Combined)	Integrates both sensors and displays data on OLED
+Week 6 Hometask                    (DHT + LDR Combined)	Integrates both sensors and displays data on OLED**
 --------------------------------------------------------------------------------------------------------------
 
 **Assignment 1	Task A LED control and mode display using buttons and OLED
